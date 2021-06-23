@@ -17,8 +17,6 @@ WOW classic
 
 
 WOW classic 
-<<<<<<< HEAD
 
 5555
-=======
->>>>>>> 110d90ff49443d4aa28dcf957029c3f644f36481
+
